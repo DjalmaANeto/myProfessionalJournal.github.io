@@ -2,7 +2,7 @@
 **Front-End Developer**
 
 ## Contact
-- GitHub: DjalmaANeto
+- GitHub: [DjalmaANeto](https://github.com/DjalmaANeto)
 - Email: dja.neto@example.com
 - Phone: +55 12 3456-7890
 
