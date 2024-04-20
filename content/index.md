@@ -1,7 +1,7 @@
 
 ---
 title: 📄My Resume
-date: Created on: 2024-04-20	
+date: 2024-04-20	
 
 ---
 # 🧑‍💻Djalma de Almeida Neto
