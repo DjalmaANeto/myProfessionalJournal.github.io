@@ -1,3 +1,9 @@
+
+---
+title: 📄My Resume
+date: Created on: 2024-04-20	
+
+---
 # 🧑‍💻Djalma de Almeida Neto
 **🔧Software Engineer - 🎨Front-End Developer**
 
@@ -31,7 +37,7 @@
     - Optimizing existing features and processes.
     - Developing back-end and front-end code.
     - Working since October 2022.
-    - 
+    
 ## 💻Technologies
 - PHP
 - Laravel
