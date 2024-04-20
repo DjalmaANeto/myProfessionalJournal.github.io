@@ -1,18 +1,19 @@
-# Quartz v4
+MyProfessionalJournal 📝
+Welcome to MyProfessionalJournal, your personal space for documenting career improvements and professional knowledge! 🚀
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+About
+MyProfessionalJournal is a simple static site where I’ll share my journey, insights, and growth. Whether it’s learning new skills, overcoming challenges, or celebrating achievements, this journal will capture it all.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Features
+Career Updates: Regularly updated with my latest career milestones.
+Knowledge Nuggets: Bite-sized articles on industry trends, best practices, and tips.
+Interactive: Feel free to reach out, ask questions, or collaborate via GitHub.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+Contributing
+Contributions are welcome! If you have ideas, bug fixes, or want to share your own professional journey, open an issue or submit a pull request. Let’s learn and grow together! 🌱
 
-## Sponsors
+Contact
+Feel free to connect with me on GitHub or drop me a message. Let’s build something awesome! 😊
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Happy coding! 🎉

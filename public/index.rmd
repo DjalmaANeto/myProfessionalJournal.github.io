@@ -1,10 +1,8 @@
 
 ---
 title: 📄My Resume
-date: 2024/04/20
+date: `r format(Sys.Date(), "%B %d, %Y")`
 ---
-
-
 # 🧑‍💻Djalma de Almeida Neto
 **🔧Software Engineer - 🎨Front-End Developer**
 
